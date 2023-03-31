@@ -28,7 +28,7 @@ class _HomeScreenState extends State<HomeScreen> {
         ],
       ),
 
-      //* tabs
+      //* t
 
       bottomNavigationBar: BottomNavigationBar(
         currentIndex: currentPage,
